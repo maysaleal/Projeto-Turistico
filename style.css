@@ -4,6 +4,12 @@
 }
 
 body {
+    background-color: #360f4c;
+}
+
+#page {
+    width: 800px;
+    padding: 24px;
     background-color: #f3e9f9;
 }
 
