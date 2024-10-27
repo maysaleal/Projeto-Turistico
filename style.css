@@ -41,3 +41,7 @@ h2 {
 section ol li  {
     color: #44135f;
 }
+
+section p {
+    line-height: 30px;
+}
