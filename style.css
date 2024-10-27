@@ -6,6 +6,7 @@
 :root {
     font-family: "Arima", system-ui;
     line-height: 150%;
+    color: #290b39;
 }
 
 body {
@@ -25,4 +26,18 @@ img {
     border-radius: 16px;
     width: 752px;
     height: 400px;
+}
+
+h1 {
+    font-size: 30px;
+    color:#360f4c ;
+}
+
+h2 {
+    font-size: 24px;
+    color: #5f1a85;
+}
+
+section ol li  {
+    color: #44135f;
 }
