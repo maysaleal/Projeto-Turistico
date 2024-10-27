@@ -1,7 +1,7 @@
 <h1 align="center"> Coréia a sua espera </h1>
 
 <p align="center">
-Uma pagina com informções sobre um dos principais pontos turisticos da Coréia do Sul. <br/>
+Uma pagina com informações sobre um dos principais pontos turisticos da Coréia do Sul. <br/>
 </p>
 
 <p align="center">
@@ -25,6 +25,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Uma pagina de informações local turistica.
+Uma pagina de informações sobre um ponto local turistico.
 
 - [Visite o projeto online](https://maysaleal.github.io/nlw-setup)
